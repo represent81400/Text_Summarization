@@ -1,1 +1,2 @@
-# Different text summarization techniques using Langchain
+# Text Summarization
+Different text summarization techniques using Langchain
