@@ -1,1 +1,1 @@
-# Text_Summarization
+# Different text summarization techniques using Langchain
